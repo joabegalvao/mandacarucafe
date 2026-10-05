@@ -114,3 +114,9 @@ tools/optimize-images.py
 tools/render-compartilhamento.js
 materiais-de-origem/   originais do cliente (fora do git)
 ```
+
+## Repositório
+
+- GitHub: `git@github.com:joabegalvao/mandacarucafe.git` (branch `main`)
+- Portfólio: publicado também em `gostoudosite.com.br/mandacarucafe/` (o Dockerfile do gostoudosite clona este repositório na pasta `mandacarucafe`)
+- Os originais do cliente ficam só na pasta local `materiais-de-origem/`, fora do git
